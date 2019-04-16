@@ -1,0 +1,24 @@
+#EXTM3U
+##Discovery Channel
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Discovery_2019.png/440px-Discovery_2019.png",Discovery Channel HD [720p]
+http://80.80.160.168/live/8/live.m3u8
+##Food Network
+##HGTV
+##TLC
+##Animal Planet
+##Travel Channel
+##Investigation Discovery
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://api.discovery.com/v1/images/58c7108d6b66d1f2020d4eac?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4",INVESTIGATION DISCOVERY
+http://80.80.160.168/live/5/live.m3u8
+##Oprah Winfrey Network
+##Science Channel
+##Discovery Family
+##Motor Trend
+##Cooking Channel
+##DIYNetwork
+##Great American Country
+##American Heroes Channel
+##Destination America
+##Discovery Life
+##Discovery en Español
+##Discovery Familia
