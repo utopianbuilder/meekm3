@@ -10,6 +10,9 @@ http://80.80.160.168/live/2/live.m3u8
 ##Animal Planet
 #EXTINF:-1 group-title="Documentary" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
+## Animal Planet HD
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
+http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8
 ##Travel Channel
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
