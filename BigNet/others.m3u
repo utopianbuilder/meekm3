@@ -1,3 +1,9 @@
 #EXTM3U
 ##anything not in a major broadcaster's catalog
 ##channels 500-999
+## NHKWorld
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv_s.m3u8
+## University of Arkansas
+#EXTINF:-1 group-title="Education" tvg-id="" tvg-name="" tvg-logo="https://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png",UALR UNIVERSITY TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
