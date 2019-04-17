@@ -1,6 +1,10 @@
 #EXTM3U
+##  NBC
+##  ABC
+##  CBS
+##  FOX
 ##  Discovery Channel
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Discovery_2019.png/440px-Discovery_2019.png",Discovery Channel HD
+#EXTINF:-1 group-title="" tvg-id="" channel-id="102" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Discovery_2019.png/440px-Discovery_2019.png",Discovery Channel HD
 http://80.80.160.168/live/8/live.m3u8
 ##  Food Network
 ##  HGTV
