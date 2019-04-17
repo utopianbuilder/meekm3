@@ -69,3 +69,8 @@ http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a
 ##  Kool TV
 #EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",Kool TV
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+##
+##  Smithsonian
+#EXTINF:-1,group-title="" tvg-id="Smithsonian.us" tvg-name="" tvg-logo="",Smithsonian Channel
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26330.m3u8
+##
