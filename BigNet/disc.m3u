@@ -5,6 +5,8 @@ http://80.80.160.168/live/8/live.m3u8
 ##Food Network
 ##HGTV
 ##TLC
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TLC
+http://80.80.160.168/live/2/live.m3u8
 ##Animal Planet
 #EXTINF:-1 group-title="Documentary" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
@@ -21,6 +23,8 @@ http://80.80.160.168/live/9/live.m3u8
 ##Discovery Family
 ##Motor Trend
 ##Cooking Channel
+#EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 ##DIYNetwork
 ##Great American Country
 ##American Heroes Channel
