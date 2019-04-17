@@ -1,19 +1,23 @@
 #EXTM3U
 ##Discovery Channel
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Discovery_2019.png/440px-Discovery_2019.png",Discovery Channel HD [720p]
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Discovery_2019.png/440px-Discovery_2019.png",Discovery Channel HD
 http://80.80.160.168/live/8/live.m3u8
 ##Food Network
 ##HGTV
 ##TLC
 ##Animal Planet
-#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET [480p]
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 ##Travel Channel
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
 ##Investigation Discovery
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",INVESTIGATION DISCOVERY
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
 ##Oprah Winfrey Network
 ##Science Channel
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kowLDRZ.png",Science Channel
+http://80.80.160.168/live/9/live.m3u8
 ##Discovery Family
 ##Motor Trend
 ##Cooking Channel
