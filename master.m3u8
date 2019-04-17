@@ -1,41 +1,53 @@
 #EXTM3U
+##        ,group-title="" tvg-id="" tvg-name="" tvg-logo="",
 ##  NBC
 ##  ABC
 ##  CBS
 ##  FOX
+##  BBC America
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="https://banner2.kisspng.com/20180810/fpf/kisspng-bbc-america-logo-television-image-bbc-america-launches-on-cablevision-this-week-5b6d56f670d455.1565050315338923424622.jpg",BBC America
+http://212.8.243.9:80/saleem/1234/23948
+##  ActionMax UHD
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/WOTV%20logos/ACTIONMAX.png",ACTIONMAX UHD
+http://212.8.243.9:80/saleem/1234/23965
+##  A&E
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png",A&E
+http://212.8.243.9:80/saleem/1234/23950
 ##  Discovery Channel
-#EXTINF:-1 group-title="" tvg-id="" channel-id="102" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Discovery_2019.png/440px-Discovery_2019.png",Discovery Channel HD
+#EXTINF:-1,group-title="" tvg-id="" channel-id="102" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Discovery_2019.png/440px-Discovery_2019.png",Discovery Channel HD
 http://80.80.160.168/live/8/live.m3u8
 ##  Food Network
 ##  HGTV
 ##  TLC
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TLC
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",TLC
 http://80.80.160.168/live/2/live.m3u8
 ##  Animal Planet
-#EXTINF:-1 group-title="Nature" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
+#EXTINF:-1,group-title="Nature" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 ##  Animal Planet HD
-#EXTINF:-1 group-title="Nature" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
+#EXTINF:-1,group-title="Nature" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
 http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8
 ##  Travel Channel
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Travel Channel
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 ##  Investigation Discovery
-#EXTINF:-1 group-title="Crime" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",Investigation Discovery
+#EXTINF:-1,group-title="Crime" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
 ##  Oprah Winfrey Network
 ##  Science Channel
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kowLDRZ.png",Science Channel
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kowLDRZ.png",Science Channel
 http://80.80.160.168/live/9/live.m3u8
 ##  Discovery Family
 ##  Motor Trend
 ##  Cooking Channel
-#EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
+#EXTINF:-1,group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 ##  DIYNetwork
 ##  Great American Country
 ##  American Heroes Channel
 ##  Destination America
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1920px-Destination_America_logo.svg.png",Destination America
+http://212.8.243.9:80/saleem/1234/23889
 ##  Discovery Life
 ##  Discovery en Español
 ##  Discovery Familia
@@ -51,7 +63,7 @@ http://161.0.157.38/PLTV/88888888/224/3221227026/index.m3u8
 ##  HBO Signature
 ##  HBO Zone
 ##  Showtime
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest/scale-to-width-down/300?cb=20171201095454",SHOWTIME
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest/scale-to-width-down/300?cb=20171201095454",SHOWTIME
 http://80.80.160.168/live/7/live.m3u8
 ##  SHO2
 ##  Showcase
@@ -71,13 +83,13 @@ http://80.80.160.168/live/7/live.m3u8
 ##  TeenNick
 ##  NickMusic
 ##  TV Land
-#EXTINF:-1 group-title="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TVLand-269x151.png",TV Land
+#EXTINF:-1,group-title="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TVLand-269x151.png",TV Land
 http://espn.tmedia.me/cache/tvland.m3u8
 ##    anything not in a major broadcaster's catalog
 ##    channels 500-999
 ##  NHKWorld
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",NHK WORLD
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv_s.m3u8
 ##  University of Arkansas
-#EXTINF:-1 group-title="Education" tvg-id="" tvg-name="" tvg-logo="https://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png",UALR UNIVERSITY TV
+#EXTINF:-1,group-title="Education" tvg-id="" tvg-name="" tvg-logo="https://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png",UALR UNIVERSITY TV
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
