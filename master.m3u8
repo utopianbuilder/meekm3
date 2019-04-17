@@ -87,9 +87,12 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://www.adultswim.com/2885901d-48a6-4c24-80ae-1b88fefb4a4c
 ##
 ##  YT - Dexter's Lab
+## needs proper link
 #EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",Dexter's Lab
 https://www.youtube.com/watch?v=A9Sman1fwko
+##
 ##  YT - Fairly Odd-Parents
+## needs proper link
 #EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",Fairly Odd-parents
 https://www.youtube.com/watch?v=y4QDK0dQqLE
 ##
