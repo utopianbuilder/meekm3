@@ -1,5 +1,7 @@
 #EXTM3U
 ##HBO
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png",HBO
+http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 ##HBO2
 ##HBO Comedy
 ##HBO Family
