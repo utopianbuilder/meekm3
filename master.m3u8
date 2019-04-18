@@ -90,3 +90,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",AS Stream
 https://www.adultswim.com/2885901d-48a6-4c24-80ae-1b88fefb4a4c
 ##
+##  Adult Swim Stream
+#EXTINF:0 tvg-name="Adult Swim" tvg-language="English" tvg-country="US" tvg-id="Adult Swim" tvg-logo="http://www.userlogos.org/files/logos/danger83/adswimblk.png" group-title="Family",Adult Swim (Family) (US) (English)
+http://adultswim-lh.akamaihd.net/i/adultswim_14@318522/index_high_av-b.m3u8
