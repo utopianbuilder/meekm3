@@ -9,7 +9,7 @@ https://sp4.snickelodeon.com/livehttporigin/pst/NVHgjK-zMrxWR-chunklist.m3u8
 ##
 ## SNickelodeon
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCSh8pD.png" group-title="USA",MTV 97
-http://se1.snickelodeon.com:1935/liveedge/mtv97/playlist.m3u8?fluxustv.m3u8
+http://209.141.34.104:1935/liveedge/mtv97/playlist.m3u8?fluxustv.m3u8
 ##
 ##  Animal Planet - good
 #EXTINF:-1,group-title="Nature" tvg-id="" tvg-name="AnimalPlanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
