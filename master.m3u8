@@ -3,9 +3,9 @@
 ## #EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="", Channel Name
 ## link to stream
 ##
-##  Toonami Aftermath
-#EXTINF:0 tvg-name="Toonami Aftermath" tvg-language="English" tvg-country="US" tvg-id="Toonami Aftermath" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e5/65/b0/e565b090b34dc756072aff0584f6cbab.jpg" group-title="Entertainment",Toonami Aftermath (Entertainment) (US) (English)
-http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+##  Toonami Aftermath East
+#EXTINF:0 tvg-name="Toonami Aftermath - East" tvg-language="English" tvg-country="US" tvg-id="Toonami Aftermath - East" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e5/65/b0/e565b090b34dc756072aff0584f6cbab.jpg" group-title="Entertainment",Toonami Aftermath (Entertainment) (US) (English)
+https://sp1.snickelodeon.com/livehttporigin/est/NVHgjK-iLmbaJ-playlist.m3u8
 ##
 ##  Animal Planet - good
 #EXTINF:-1,group-title="Nature" tvg-id="" tvg-name="AnimalPlanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
