@@ -5,7 +5,7 @@
 ##
 ##  Toonami Aftermath East
 #EXTINF:0 tvg-name="Toonami Aftermath - East" tvg-language="English" tvg-country="US" tvg-id="Toonami Aftermath - East" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e5/65/b0/e565b090b34dc756072aff0584f6cbab.jpg" group-title="Entertainment",Toonami Aftermath (Entertainment) (US) (English)
-https://sp1.snickelodeon.com/livehttporigin/est/NVHgjK-iLmbaJ-playlist.m3u
+https://sp3.snickelodeon.com/livehttporigin/pst/NVHgjK-BFvnhc-chunklist.m3u8
 ##
 ##  Animal Planet - good
 #EXTINF:-1,group-title="Nature" tvg-id="" tvg-name="AnimalPlanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
@@ -52,11 +52,6 @@ http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1,group-title="Nature" tvg-id="" tvg-name="AnimalPlanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
 http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8
 ##
-##  Cooking Channel
-## buffering
-#EXTINF:-1,group-title="Food" tvg-id="" tvg-name="CookingChannel.us" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-##
 ##  HBO
 ## buffering - spanish
 #EXTINF:-1,group-title="Movies" tvg-id="" tvg-name="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png",HBO
@@ -86,10 +81,3 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 ##
-##  [as] Stream
-#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",AS Stream
-https://www.adultswim.com/2885901d-48a6-4c24-80ae-1b88fefb4a4c
-##
-##  Adult Swim Stream
-#EXTINF:0 tvg-name="Adult Swim" tvg-language="English" tvg-country="US" tvg-id="Adult Swim" tvg-logo="http://www.userlogos.org/files/logos/danger83/adswimblk.png" group-title="Family",Adult Swim (Family) (US) (English)
-http://adultswim-lh.akamaihd.net/i/adultswim_14@318522/index_high_av-b.m3u8
